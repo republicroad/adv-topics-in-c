@@ -1,0 +1,6 @@
+{
+    // "terminal.integrated.defaultProfile.windows": "Git Bash",
+    // MSYS2 UCRT // UCRT64 //  Git Bash
+    // "terminal.integrated.defaultProfile.windows": "UCRT642",
+    // "terminal.integrated.env.windows": {}
+}
